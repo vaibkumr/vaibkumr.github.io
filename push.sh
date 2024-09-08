@@ -1,3 +1,3 @@
 git add .
-git commit -m "generic commit"
-git push -u origin main
+git commit -m "generic commit message"
+git push -u -f origin main
