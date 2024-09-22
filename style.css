@@ -124,3 +124,14 @@ footer {
   padding: 20px;
   font-size: 0.9em;
 }
+
+p.spoiler {
+  color: #cc331b;
+  font-family: monospace;
+}
+
+p.cite {
+  color: #cc331b;
+  font-family: monospace;
+  text-align: center;
+}
