@@ -30,10 +30,10 @@ nav ul li a {
   text-decoration: none;
   transition: background-color 0.3s;
 }
-
+/* 
 nav ul li a:hover {
   background-color: #ddd;
-}
+} */
 
 .blog-container {
   display: flex;
