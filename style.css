@@ -30,7 +30,7 @@ nav ul li a {
   text-decoration: none;
   transition: background-color 0.3s;
 }
-/* 
+/*
 nav ul li a:hover {
   background-color: #ddd;
 } */
@@ -76,60 +76,48 @@ img {
   margin-left: 40px;
   color: black;
   font-style: italic;
-}  
+}
 
 a:link, a:visited {
   color: #cc331b;
   background-color: transparent;
   text-decoration: none;
 }
-
 a:hover, a:active {
   color: #cc331b;
   background-color: transparent;
   text-decoration: underline;
 }
-
 ul {
   padding-left: 20px;
 }
-
 code {
   padding: 2px 4px;
   border-radius: 4px;
 }
-
-/* Existing CSS remains unchanged */
-
-/* New styles for blog posts */
 .blog-post {
   max-width: 700px;
   margin: 0 auto;
   padding: 20px;
 }
-
 .post-meta {
   color: #666;
   font-style: italic;
   margin-bottom: 20px;
 }
-
 .post-content h2 {
   margin-top: 30px;
 }
-
 footer {
   text-align: center;
   margin-top: 40px;
   padding: 20px;
   font-size: 0.9em;
 }
-
 p.spoiler {
   color: #cc331b;
   font-family: monospace;
 }
-
 p.cite {
   color: #cc331b;
   font-family: monospace;
